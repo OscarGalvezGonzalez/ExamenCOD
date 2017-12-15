@@ -18,6 +18,8 @@ public class JavaApplication6 {
         System.out.println("Examen");
         System.out.println("Intermedio");
         System.out.println("Y terminamos");
+        System.out.println("Rama");
+        System.out.println("Seguimos"); 
     }
     
 }
