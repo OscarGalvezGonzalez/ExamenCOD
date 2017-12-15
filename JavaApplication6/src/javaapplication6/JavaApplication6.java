@@ -17,6 +17,7 @@ public class JavaApplication6 {
     public static void main(String[] args) {
         System.out.println("Examen");
         System.out.println("Rama");
+        System.out.println("Seguimos");
     }
     
 }
